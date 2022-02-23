@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SamuelPulpan
+- 👋 Hi, I’m @SamChi
 - 👀 I’m interested in ... HW and SW development, EA reapirs
 - 🌱 I’m currently learning ... DCDC converters C/C++ on ES
 - 💞️ I’m looking to collaborate on ...
